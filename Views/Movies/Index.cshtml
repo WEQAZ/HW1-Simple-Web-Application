@@ -17,7 +17,10 @@
         </select>
 
         Title: <input type="text" asp-for="SearchString" />
-
+        PriceRange: 
+        <input type="number" name="minPrice" value="0" />
+        <input type="number" name="maxPrice" value="100" />
+        
         <input type="submit" value="Filter" />
     </p>
 </form>

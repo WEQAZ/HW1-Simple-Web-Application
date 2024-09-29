@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\@myStuff\\CMU\\Data Centric\\HW0\\MvcMovie\\MvcMovie.csproj": {}
+    "/Users/piyawut/Documents/Programming/HW1-Simple-Web-Application/MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\@myStuff\\CMU\\Data Centric\\HW0\\MvcMovie\\MvcMovie.csproj": {
+    "/Users/piyawut/Documents/Programming/HW1-Simple-Web-Application/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\@myStuff\\CMU\\Data Centric\\HW0\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "/Users/piyawut/Documents/Programming/HW1-Simple-Web-Application/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\@myStuff\\CMU\\Data Centric\\HW0\\MvcMovie\\MvcMovie.csproj",
-        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\@myStuff\\CMU\\Data Centric\\HW0\\MvcMovie\\obj\\",
+        "projectPath": "/Users/piyawut/Documents/Programming/HW1-Simple-Web-Application/MvcMovie.csproj",
+        "packagesPath": "/Users/piyawut/.nuget/packages/",
+        "outputPath": "/Users/piyawut/Documents/Programming/HW1-Simple-Web-Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/piyawut/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
